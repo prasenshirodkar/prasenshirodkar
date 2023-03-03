@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prasenshirodkar
 - 👀 I’m interested in ...soccer
-- 🌱 I’m currently learning ...javadeveloper
+- 🌱 I’m currently playing with java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
